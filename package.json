@@ -1,0 +1,17 @@
+{
+  "name": "customcursestest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "custom-curses": "^0.1.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
