@@ -8,10 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "custom-curses": "^0.1.2"
-  },
   "devDependencies": {
     "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "custom-curses": "^0.1.15"
   }
 }
